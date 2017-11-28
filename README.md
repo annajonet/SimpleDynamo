@@ -1,2 +1,3 @@
 # SimpleDynamo
-Iimplemented a Dynamo-style key-value storage
+#### A Dynamo-style key-value storage
+Implemented Partitioning, Quorum Replication, Concurrency and Failure handling.
